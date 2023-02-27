@@ -1,0 +1,22 @@
+.banner{
+	margin: 0px;
+	background-image: url(../../images/banner.jpg);
+	color: whitesmoke;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner h1{
+	font-size: 60px;
+
+}
+
+.banner h2{
+	font-size: 35px;
+	color: whitesmoke;
+	font-weight: lighter;
+	opacity: 0.9;
+	margin: 60px;
+}
+
